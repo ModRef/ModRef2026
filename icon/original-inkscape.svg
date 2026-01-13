@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="original-inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.8761364"
+     inkscape:cx="360.84796"
+     inkscape:cy="391.76256"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="90.545928,172.34977"
+       orientation="1,0"
+       id="guide400"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="98.035553,150.47203"
+       orientation="1,0"
+       id="guide402"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffd5d5;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect562"
+       width="203.80284"
+       height="150.5316"
+       x="4.1985083"
+       y="35.460415" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round"
+       id="path456"
+       cx="105.21249"
+       cy="116.3765"
+       r="67.997589"
+       inkscape:export-filename="modref-128.png"
+       inkscape:export-xdpi="23.906729"
+       inkscape:export-ydpi="23.906729" />
+    <text
+       xml:space="preserve"
+       style="font-size:47.04970001px;line-height:1.25;font-family:Comfortaa;word-spacing:0px;stroke-width:2.9406;-inkscape-font-specification:'Comfortaa, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="48.937801"
+       y="114.03933"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="stroke-width:2.9406;-inkscape-font-specification:'Comfortaa, Bold';font-family:Comfortaa;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:47.04970001px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="48.937801"
+         y="114.03933">Mod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.0497px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.05833px;word-spacing:0px;white-space:pre;inline-size:83.9156;stroke-width:2.9406"
+       x="-156.49338"
+       y="-117.86204"
+       id="text240"
+       transform="rotate(180,-0.1296713,0.50739948)"
+       inkscape:export-filename="modref-16.png"
+       inkscape:export-xdpi="2.9883411"
+       inkscape:export-ydpi="2.9883411"><tspan
+         x="-156.49338"
+         y="-117.86204"
+         id="tspan307">Ref</tspan></text>
+  </g>
+</svg>

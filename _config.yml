@@ -1,0 +1,10 @@
+title: ModRef 2026
+description: >-
+  The 25th International Workshop on Constraint Modelling and Reformulation, run
+  in association with the constraint programming conference CP2026 as part of
+  the Federated Logic Conference FLoC 2026 in Lisbon, Portugal.
+baseurl: ""
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
