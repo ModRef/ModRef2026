@@ -4,12 +4,13 @@ title: ModRef 2026
 redirect_from: "/"
 ---
 
-ModRef 2026 is the 25th in a [series of workshops on Constraint Modelling and
-Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of
-CP 2026, the [32nd International Conference on Principles and Practice of
-Constraint Programming](https://cp2026.a4cp.org/), held this year in Lisbon,
-Portugal.  ModRef will be held on July 19th 2026, which is the day before the
-main CP conference begins.  ModRef and CP are part of [FLOC
+ModRef 2026 is the 25th in a series of workshops on Constraint Modelling and
+Reformulation (see [some past
+contributions]({% link past-papers.md %})) and is organized
+as part of CP 2026, the [32nd International Conference on Principles and
+Practice of Constraint Programming](https://cp2026.a4cp.org/), held this year in
+Lisbon, Portugal.  ModRef will be held on July 19th 2026, which is the day
+before the main CP conference begins.  ModRef and CP are part of [FLOC
 2026](https://flog26.org), a four-yearly co-location of conferences and
 workshops related to logic in computer science.
 
@@ -64,9 +65,8 @@ interesting aspects of existing systems.
 
 There are three types of paper submissions: extended abstracts (at most two
 pages), short papers (at most eight pages) and long papers (at most fifteen
-pages). References are not part of the page limit. Papers are submitted through
-[OpenReview](https://openreview.net/group?id=a4cp.org/CP/2025/Workshop/ModRef)
-as PDF files following [LIPIcs
+pages). References are not part of the page limit. Papers should be submitted
+through OpenReview (link TBA) as PDF files following [LIPIcs
 guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no
 requirement for papers to be anonymised before submission.
 
