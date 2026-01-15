@@ -1,15 +1,15 @@
 ---
 layout: default
 title: ModRef 2026
+toc: true
 redirect_from: "/"
 ---
 
 ModRef 2026 is the 25th in a series of workshops on Constraint Modelling and
-Reformulation (see [some past
-contributions]({% link past-papers.md %})) and is organized
-as part of CP 2026, the [32nd International Conference on Principles and
-Practice of Constraint Programming](https://cp2026.a4cp.org/), held this year in
-Lisbon, Portugal.  ModRef will be held on July 19th 2026, which is the day
+Reformulation (see [some past contributions]({% link past-papers.md %})) and is
+organized as part of [CP 2026](https://cp2026.a4cp.org/) the 32nd International
+Conference on Principles and Practice of Constraint Programming, held this year
+in Lisbon, Portugal.  ModRef will be held on July 19th 2026, which is the day
 before the main CP conference begins.  ModRef and CP are part of [FLOC
 2026](https://flog26.org), a four-yearly co-location of conferences and
 workshops related to logic in computer science.
@@ -42,21 +42,21 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from
   a single declarative model.
 
-## <a name="registration"></a> Registration
+## Registration
 Registration will be available through the [FLoC 2026 registration
 page](https://floc26.org/registration)
 
 
-## <a name="importantDates"></a> Important Dates
+## Important Dates
 
-|--------------------------------------|   --: |
-| Abstract Submission                  | TBA   |
-| Paper Submission                     | TBA   |
-| Notification of acceptance/rejection | TBA   |
-| Camera ready version                 | TBA   |
-| Workshop day                         | **19 July 2026**  |
+|--------------------------------------|--------------:|
+| Abstract Submission                  | 8 May 2026    |
+| Paper Submission                     | 15 May 2026   |
+| Notification of acceptance/rejection | 25 May 2026   |
+| Camera ready version                 | 5 July 2026   |
+| Workshop day                         | 19 July 2026  |
 
-## <a name="callForPapers"></a> Call for Papers 
+## Call for Papers 
 
 This year ModRef will again accept paper submissions. In addition to the
 presentation of research results, we especially welcome submissions of novel
@@ -82,19 +82,19 @@ presentation at the workshop.
 
 Paper Submission Link: TBA
 
-## <a name="invitedTalk"></a> Invited Talk
+## Invited Talk
 
 TBA
 
-## <a name="acceptedPapers"></a> Accepted Papers
+## Accepted Papers
 TBA
 
 
-## <a name="schedule"></a> Schedule
+## Schedule
 
 TBA
 
-## <a name="programCommittee"></a> Program Committee
+## Program Committee
 
 |---------------------------------|-------------------------------------| 
 | Jordi Caballero Coll (Chair)    | Universitat de Girona               |

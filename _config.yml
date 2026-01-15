@@ -8,3 +8,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-toc
