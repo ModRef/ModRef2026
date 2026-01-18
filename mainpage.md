@@ -63,16 +63,20 @@ presentation of research results, we especially welcome submissions of novel
 (ongoing) work, recent breakthroughs, future directions, and descriptions of
 interesting aspects of existing systems.
 
-There are three types of paper submissions: extended abstracts (at most two
-pages), short papers (at most eight pages) and long papers (at most fifteen
-pages). References are not part of the page limit. Papers should be submitted
-through OpenReview (link TBA) as PDF files following [LIPIcs
-guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no
-requirement for papers to be anonymised before submission.
+There are three types of paper submissions: 
+- **Extended abstracts:** at most two pages
+- **Short papers:** at most eight pages.
+- **Long papers:** at most fifteen pages. 
 
+References are not part of the page limit. 
 We also accept (and encourage) non-traditional electronic submissions, such as
 interactive works/tool demonstrations. In this case, please contact the chairs
 to discuss the suitability of your submission for ModRef.
+
+Papers should be submitted
+through [HotCRP](https://submissions.floc26.org/modref) as PDF files following [LIPIcs
+guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no
+requirement for papers to be anonymised before submission.
 
 All submissions will be reviewed, and those that are well-written and make a
 worthwhile contribution to the topic of the workshop will be accepted for
@@ -80,8 +84,7 @@ publication in the workshop proceedings, which will be available electronically
 on this website. Accepted contributions will be allowed a time slot for a
 presentation at the workshop.
 
-Paper Submission Link: TBA
-
+**Paper submission link:** [https://submissions.floc26.org/modref](https://submissions.floc26.org/modref)
 ## Invited Talk
 
 TBA
@@ -97,7 +100,7 @@ TBA
 ## Program Committee
 
 |---------------------------------|-------------------------------------| 
-| Jordi Caballero Coll (Chair)    | Universitat de Girona               |
+| Jordi Coll (Chair)    | Universitat de Girona               |
 | Felix Ulrich-Oltean (Chair)     | University of York                  |
 
 
