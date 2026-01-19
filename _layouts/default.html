@@ -23,12 +23,19 @@
         <h2>The 25th workshop on Constraint Modelling and Reformulation</h2>
 	<h3>19th July 2026; Part of <a href="https://cp2026.a4cp.org/">CP 2026</a></h3>
 
-        {{ content | toc_only }}
+ {% capture my_nav_links %}
+ * [Registration](#registration)
+ * [Important Dates](#important-dates)
+ * [Call for Papers](#call-for-papers)
+ * [Program Committee](#program-committee)
+ {% endcapture %}
+
+ {{ my_nav_links | markdownify }}
         
       </header>
       <section>
         
-        {{ content | inject_anchors}}
+        {{ content }}
         
       </section>
       <footer>
