@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ModRef 2026
-toc: true
+show_manual_toc: true
 redirect_from: "/"
 ---
 
