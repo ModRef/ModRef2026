@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Some Past Constributions to ModRef
+title: Some Past Contributions to ModRef
 ---
 
 | Year | Authors | Title | Type |
