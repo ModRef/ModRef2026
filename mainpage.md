@@ -99,9 +99,33 @@ TBA
 
 ## Program Committee
 
-|---------------------------------|-------------------------------------| 
-| Jordi Coll (Chair)    | Universitat de Girona               |
-| Felix Ulrich-Oltean (Chair)     | University of York                  |
+|------------------------------------|-------------------------------------| 
+| Jordi Coll (Chair)                 | Universitat de Girona               |
+| Felix Ulrich-Oltean (Chair)        | University of York                  |
+| Özgür Akgün                        | University of St Andrews | 
+| Carlos Ansótegui                   | Universitat de Lleida| 
+| Hendrik Bierlee                    | KU Leuven | 
+| Mun See Chang                      | University of St Andrews | 
+| Sami Cherif                        | Université de Picardie Jules Verne| 
+| Jip Dekker                         | Monash University | 
+| Emir Devirović                     | Delft University of Technology | 
+| Joan Espasa Arxer                  | University of St Andrews | 
+| María Andreína Francisco Rodríguez | Uppsala University | 
+| Ian Gent                           | University of St Andrews |
+| Ramiz Gindullin                    | Uppsala University | 
+| Tias Guns                          | KU Leuven|
+| Emmanuel Hebrard                   | Université de Toulouse| 
+| Christopher Jefferson              | University of St Andrews| 
+| George Katsirelos                  | INRAE | 
+| Anna Latour                        | Delft University of Technology | 
+| Kevin Leo                          | Monash University |
+| Peter Nightingale                  | University of York | 
+| Justin Pearson                     | Uppsala University| 
+| Gilles Pesant                      | Polytechnique Montréal | 
+| Pierre Schaus                      | UC Louvain| 
+| Christine Solnon                   | INSA Lyon | 
+| Bernardo Subercaseaux              | Carnegie Mellon University |
+| Guido Tack                         | Monash University | 
+| Mateu Villaret                     | Universitat de Girona | 
+| Allen Zhong                        | Monash University | 
 
-
-Full PC TBA
