@@ -50,7 +50,7 @@ page](https://floc26.org/registration)
 ## Important Dates
 
 |--------------------------------------|--------------:|
-| Abstract Submission                  | 8 May 2026    |
+| Abstract Submission                  | ~~8 May 2026~~ **11 May 2026**    |
 | Paper Submission                     | 15 May 2026   |
 | Notification of acceptance/rejection | 25 May 2026   |
 | Camera ready version                 | 5 July 2026   |
