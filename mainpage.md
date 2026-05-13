@@ -68,7 +68,7 @@ There are three types of paper submissions:
 - **Short papers:** at most eight pages.
 - **Long papers:** at most fifteen pages. 
 
-References are not part of the page limit. 
+References and appendices are not part of the page limit. 
 We also accept (and encourage) non-traditional electronic submissions, such as
 interactive works/tool demonstrations. In this case, please contact the chairs
 to discuss the suitability of your submission for ModRef.
