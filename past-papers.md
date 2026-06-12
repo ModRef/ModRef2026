@@ -5,6 +5,23 @@ title: Some Past Contributions to ModRef
 
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
+| 2024 | Christine Solnon | From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems [(slides)](slides/ModRef2024_FromModRef2014toModRef2024.pdf)| Invited |
+| 2024 | Csobán Balogh, Ruth Hoffmann and Joan Espasa | Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective [(paper)](papers/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf) [(slides)](slides/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf) | Paper |
+| 2024 | Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa | MIN2SMT - A MINION to SMT-LIB2 Compiler [(paper)](papers/ModRef2024_MIN2SMT.pdf) | Paper |
+| 2024 | Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret | Cross-Paradigm Modelling: A Case Study of Puzznic [(paper)](papers/ModRef2024_CrossParadigmModelling.pdf) | Paper |
+| 2024 | David Saikali and Gilles Pesant | Constrained Molecule Generation Modelled using the Grammar Constraint [(paper)](papers/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf) [(slides)](slides/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf) | Paper |
+| 2024 | Helmut Simonis | Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem [(paper)](papers/ModRef2024_ApproximatingaGlobalObjectivebySolvingRepeatedSubproblems.pdf) | Paper |
+| 2024 | Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza | Modelling Choices for the Roadef 2022 Challenge [(paper)](papers/ModRef2024_ModellingChoicesfortheRoadef2022Challenge.pdf) | Paper |
+| 2024 | Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean | Generalizing Learning-to-Prune for Constraint Programming [(paper)](papers/ModRef2024_GeneralizingLearningtoPruneforConstraintProgramming.pdf) | Paper |
+| 2024 | Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle | Towards High-Level Modelling in Automated Planning [(paper)](papers/ModRef2024_TowardsHighLevelModellinginAutomatedPlanning.pdf) | Paper |
+| 2024 | Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker | IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints [(paper)](papers/ModRef2024_IndiCon.pdf) | Paper |
+| 2024 | Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller | Constraint Models for Relaxed Klondike Variants [(paper)](papers/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf) [(slides)](slides/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf) | Paper |
+| 2024 | Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel | Automatic Feature Learning for Essence: a Case Study on Car Sequencing [(paper)](papers/ModRef2024_AutomaticFeatureLearningforEssence.pdf) [(slides)](slides/ModRef2024_AutomaticFeatureLearningforEssence.pdf) | Paper |
+| 2024 | Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns | Efficient Modeling of Half-reified Global Constraints [(paper)](papers/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf) [(slides)](slides/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf) | Paper |
+| 2024 | Pierre Schaus, Roger Kameugne and Charles Thomas | Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint (Extended Abstract)[(paper)](papers/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf) [(slides)](slides/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf) | Paper |
+| 2024 | Davide Di Pierro, Stephan Mennicke and Stefano Ferilli | A Schema-aware Logic Reformulation for Graph Reachability [(paper)](papers/ModRef2024_ASchemaawareLogicReformulationforGraphReachability.pdf) | Paper |
+| 2024 | Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel | Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays [(paper)](papers/ModRef2024_AutomatedNogoodFilteredFineGrainedStreamlining.pdf) | Paper |
+| 2024 | Jo Devriendt | ManyWorlds: Combinatorial Programming with Functions [(paper)](papers/ModRef2024_ManyWorlds.pdf) [(slides)](slides/ModRef2024_ManyWorlds.pdf) | Paper |
 | 2023 | Hélène Verhaeghe | Solving Complex Problems: Graphs, Constraints, and Machine Learning in Action [(slides)](slides/ModRef2023_SolvingComplexProblems.pdf) | Invited |
 | 2023 | Wout Vanroose, Ignace Bleukx, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns | Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract) [(paper)](papers/ModRef2023_BreakingConstraintModellingLanguagesWithMetamorphicTestingExtendedAbstract.pdf) | Paper |
 | 2023 | Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret | On Grid Graph Reachability and Puzzle Games [(paper)](papers/ModRef2023_OnGridGraphReachabilityAndPuzzleGames.pdf) | Paper |
@@ -29,34 +46,34 @@ title: Some Past Contributions to ModRef
 | 2021 | Hélène Verhaeghe, Roger Kameugne, Christophe Lecoutre and Pierre Schaus | Improved Filtering of Scheduling Problems using Redundant Table Constraints [(paper)](papers/ModRef2021_SchedulingRedundantTable.pdf) | Paper |
 | 2021 | Özgür Akgün, Alan M. Frisch, Ian P. Gent, Christopher Jefferson, Ian Miguel, Peter Nightingale and András Z. Salamon | Towards Reformulating Essence Specifications for Robustness [(paper)](papers/ModRef2021_ReformulatingEssenceRobustness.pdf) | Paper |
 | 2020 | Maria Garcia de la Banda | Rethinking Model Reformulation: from Speed focused to Human focused | Invited |
-| 2020 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure | Paper |
-| 2020 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators | Paper |
-| 2020 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving | Paper |
-| 2020 | Vitaly Lagoon and Amit Metodi| Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine | Paper |
-| 2020 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret | Paper |
-| 2020 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning | Paper |
+| 2020 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure [(paper)](papers/ModRef2020_Specifying_Local_Search_Neighborhoods_from_a_Constraint_Satisfaction_Problem_Structure.pdf) | Paper |
+| 2020 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking_propagators.pdf) [(slides)](slides/ModRef2020_Slides_Half-checking_propagators.pdf) | Paper |
+| 2020 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving [(paper)](papers/ModRef2020_Efficient_Incremental_Modelling_and_Solving.pdf) | Paper |
+| 2020 | Vitaly Lagoon and Amit Metodi| Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine [(paper)](papers/ModRef2020_Deriving_Optimal_Multiplication-by-Constant_Circuits_With_A_SAT-based_Constraint_Engine.pdf) | Paper |
+| 2020 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret [(paper)](papers/ModRef2020_Efficient_Exact_Computation_of_Setwise_Minimax_Regret.pdf) | Paper |
+| 2020 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning [(paper)](papers/ModRef2020_Exploring_Instance_Generation_for_Automated_Planning.pdf) [(slides)](slides/ModRef2020_Slides_Exploring_Instance_Generation_for_Automated_Planning.pdf) | Paper |
 | 2020 | Tias Guns | Hybrid Prediction and Constraint Solving  | Invited |
-| 2020 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design | Paper |
-| 2020 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem | Paper |
-| 2020 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem | Paper |
-| 2019 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork | Paper |
-| 2019 | Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling | Invited |
-| 2019 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems | Paper |
-| 2019 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example | Paper |
-| 2019 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems | Paper |
-| 2019 | Neng-Fa Zhou | In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem | Paper |
+| 2020 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design [(paper)](papers/ModRef2020_A_Constraint_Programming_Approach_to_Microplate_Layout_Design.pdf) [(slides)](slides/ModRef2020_Slides_A_Constraint_Programming_Approach_to_Microplate_Layout_Design.pdf) | Paper |
+| 2020 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem [(paper)](papers/ModRef2020_Modelling_the_Conference_Paper_Assignment_Problem.pdf) | Paper |
+| 2020 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards_Portfolios_of_Streamlined_Constraint_Models.pdf) | Paper |
+| 2019 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork [(paper)](papers/ModRef2019_State_Representation_and_Polyomino_Placement_for_the_Game_Patchwork.pdf) [(slides)](slides/ModRef2019_Slides_State_Representation_and_Polyomino.pdf) | Paper |
+| 2019 | Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling [(slides)](slides/ModRef2019_Slides_Combinatorial_Register_Allocation_and_Instruction_Scheduling.pdf) | Invited |
+| 2019 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems [(paper)](papers/ModRef2019_Modelling_and_Solving_Online_Optimisation_Problems.pdf) | Paper |
+| 2019 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example [(paper)](papers/ModRef2019_Increasing_modeling_language_convenience_with_a_universal_n-dimensional_array.pdf) [(slides)](slides/ModRef2019_Slides_Increasing_modeling_language_convenience_CPpy.pdf) | Paper |
+| 2019 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems [(paper)](papers/ModRef2019_Incremental_Symmetry_Breaking_Constraints_for_Graph_Search_Problems.pdf) | Paper |
+| 2019 | Neng-Fa Zhou | In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem [(paper)](papers/ModRef2019_In_Pursuit_of_an_Efficient_SAT_Encoding_for_the_Hamiltonian_Cycle_Problem.pdf) | Paper |
 | 2019 | Nina Narodytska | In Search for a SAT-friendly Binarized Neural Network Architecture | Invited |
-| 2019 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime | Paper |
-| 2019 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions | Paper |
-| 2018 | Michele Lombardi | Empirical Decision Model Learning | Invited |
-| 2018 | Özgür Akgün and Ian Miguel |  Modelling Langford's Problem: A Viewpoint for Search | Paper |
-| 2018 | Ruth Hoffmann, Özgür Akgün and Susmit Sarkar  | Memory Consistency Models using Constraints | Paper |
-| 2018 | Andrea Rendl and Christina Burt | Demand-driven Delivery Staff Rostering | Paper |
-| 2018 | Helmut Simonis  | Considering Feedback Loops in Constraint Programming Methodology | Invited |
-| 2018 | Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis  | A Transducer-Based Model for Representing Functional Constraints on Integer Sequences | Paper |
-| 2018 | Tias Guns, Peter J. Stuckey and Guido Tack  | Solution Dominance over Constraint Satisfaction Problems | Paper |
-| 2018 | Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |  Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets | Paper |
-| 2018 | Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey  | A Study of Evacuation Planning for Wildfires | Paper |
+| 2019 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime [(paper)](papers/ModRef2019_Towards_Lifted_Encodings_for_Numeric_Planning_in_Essence_Prime.pdf) | Paper |
+| 2019 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions [(paper)](papers/ModRef2019_Towards_Improving_Solution_Dominance_with_Incomparability_Conditions_A_case-study_using_Generator_Itemset_Mining.pdf) | Paper |
+| 2018 | Michele Lombardi | Empirical Decision Model Learning [(slides)](slides/ModRef2018_Slides_Empirical_Decision_Model_Learning.pdf) | Invited |
+| 2018 | Özgür Akgün and Ian Miguel |  Modelling Langford's Problem: A Viewpoint for Search [(paper)](papers/ModRef2018_LangfordViewpoints.pdf) | Paper |
+| 2018 | Ruth Hoffmann, Özgür Akgün and Susmit Sarkar  | Memory Consistency Models using Constraints [(paper)](papers/ModRef2018_MemoryConsistencyModels.pdf) | Paper |
+| 2018 | Andrea Rendl and Christina Burt | Demand-driven Delivery Staff Rostering [(paper)](papers/ModRef2018_DemandDrivenStaffRostering.pdf) [(slides)](slides/ModRef2018_Slides_DemandDrivenStaffRostering.pdf) | Paper |
+| 2018 | Helmut Simonis  | Considering Feedback Loops in Constraint Programming Methodology [(slides)](slides/ModRef2018_Slides_Considering_Feedback_Loops_in_CP_Methodology.pdf) | Invited |
+| 2018 | Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis  | A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf) [(slides)](slides/ModRef2018_Slides_TransducerBasedFunctionalSequenceConstraints.pdf) | Paper |
+| 2018 | Tias Guns, Peter J. Stuckey and Guido Tack  | Solution Dominance over Constraint Satisfaction Problems [(paper)](papers/ModRef2018_SolutionDominance.pdf) [(slides)](slides/ModRef2018_Slides_SolutionDominance.pdf) | Paper |
+| 2018 | Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |  Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf) [(slides)](slides/ModRef2018_Slides_LocalSearchEssence.pdf) | Paper |
+| 2018 | Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey  | A Study of Evacuation Planning for Wildfires [(paper)](papers/ModRef2018_EvacuationPlanning.pdf) | Paper |
 | 2017 | Peter Stuckey                              | Ten Years of MiniZinc | Invited |
 | 2017 | Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young | Priority Search with MiniZinc | Paper |
 | 2017 | Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble | Modelling and Optimisation with Graphs | Short |
