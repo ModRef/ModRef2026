@@ -5,6 +5,19 @@ title: Some Past Contributions to ModRef
 
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
+| 2025 | Marijn Heule | Automated Reasoning in Discrete Geometry: Discovery, Verification, and Symmetry [(slides)](slides/ModRef2025_DiscreteSymmetry_Invited.pdf)| Invited|
+| 2025 | Dillon Ze Chen | STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems. [(paper)](papers/ModRef2025_1_STRIPS_2_DyPDL.pdf) | Paper |
+| 2025 | Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret | Undefinedness in Planning with Arrays. [(paper)](papers/ModRef2025_10_Undefinedness_in_Planning.pdf) | Paper |
+| 2025 | Niklas Dewally, Özgür Akgün | Solver-Aided Expansion of Loops to Avoid Generate-and-Test. [(paper)](papers/ModRef2025_7_Solver_Aided_Expansion.pdf) | Paper |
+| 2025 | Jean-Louis Dufour | Mutual B refinements as a justification for constraints model reformulations. [(paper)](papers/ModRef2025_2_Mutual_B_refinements.pdf) | Paper |
+| 2025 | Panteleimon Iosif, Nikolaos Ploskas, Kostas Stergiou, Dimos Tsouros | Modeling the p-Dispersion Problem with Distance Constraints. [(paper)](papers/ModRef2025_8_Modeling_the_p_Dispersion.pdf) | Paper |
+| 2025 | Martin Mariusz Lester | Declarative pearl: I put a SAT solver in your SAT solver so you can find backdoors slowly. [(paper)](papers/ModRef2025_3_Declarative_pearl.pdf) | Paper |
+| 2025 | Jonathan Benjamin Oliva Salinas, Peter Nightingale | Machine Learning Model for Selecting Assignments of Variables for SAT Problems. [(paper)](papers/ModRef2025_12_Machine_Learning_Model.pdf) | Paper |
+| 2025 | Aadil Sattar, Martin Mariusz Lester | Evaluating the Impact of Encoding on SAT Based Constraint Solving in Exchequer. [(paper)](papers/ModRef2025_6_Evaluating_the_Impact_of_Enc.pdf) | Paper |
+| 2025 | Helmut Simonis, Luis Quesada  | Modeling the Inglenook Shunting Puzzle. [(paper)](papers/ModRef2025_9_Modeling_the_Inglenook_Shunt.pdf) | Paper |
+| 2025 | Bernardo Subercaseaux | Asymptotically Smaller Encodings for Graph Problems and Scheduling. [(paper)](papers/ModRef2025_11_Asymptotically_Smaller.pdf) | Paper |
+| 2025 | Cantaloube Théo, XIAO PENG, Christine Solnon, Anastasia Volkova  | A new Constraint Programming model for the Multiple Constant Multiplication [(paper)](papers/ModRef2025_4_A_new_Constraint_Programming.pdf) | Paper |
+| 2025 | Jialu Zhang, Chu-Min Li, Sami Cherif, Shuolin Li, Zhifei Zheng | Integer Linear Programming Techniques for Enhancing Branch and Bound MaxSAT Solvers [(paper)](papers/ModRef2025_13_Integer_Linear_Programming.pdf) | Paper |
 | 2024 | Christine Solnon | From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems [(slides)](slides/ModRef2024_FromModRef2014toModRef2024.pdf)| Invited |
 | 2024 | Csobán Balogh, Ruth Hoffmann and Joan Espasa | Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective [(paper)](papers/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf) [(slides)](slides/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf) | Paper |
 | 2024 | Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa | MIN2SMT - A MINION to SMT-LIB2 Compiler [(paper)](papers/ModRef2024_MIN2SMT.pdf) | Paper |
