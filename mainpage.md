@@ -91,14 +91,14 @@ presentation at the workshop.
 
 **Carlos Ansótegui**, Universitat de Lleida
 
-### From SAT to Max2SAT: A Systematic Reduction with Practical Benefits
+### Reformulation in MaxSAT: Resolution Rules and Gadgets
 
 
-*Abstract:* Reductions are one of the fundamental tools in computational complexity, yet many classic NP-completeness reductions rely on intricate, problem-specific gadgets whose construction can appear more like an art than a systematic process. This talk presents reductions from SAT to Max2SAT that replace ad hoc gadget design with a general and constructive methodology. The approach builds compact Max2SAT instances that faithfully encode arbitrary SAT formulas while providing a clearer understanding of how such reductions can be derived.
+*Abstract:* Reformulation is a powerful tool in MaxSAT, transforming problems into equivalent forms that are easier to analyze or solve. This talk presents two examples illustrating how reformulation can lead to both new theoretical insights and more effective solving techniques.
 
-Beyond its theoretical interest, the reduction has practical implications. Modern MaxSAT solvers have become remarkably powerful, raising the question of whether translating SAT into Max2SAT can sometimes be more effective than solving the original SAT instance directly. Experimental results show that, for several challenging classes of formulas, this strategy is indeed competitive and can even outperform state-of-the-art SAT solvers.
+The first part focuses on resolution-based reformulations for Core-guided MaxSAT solving. We revisit modern SAT-based MaxSAT algorithms and show that the evolution of relaxation variables and constraints can be understood through a set of Non-CNF MaxSAT resolution rules together with the Extension rule. This perspective provides a unified view of Core-guided solvers and naturally leads to alternative solving strategies, giving rise to new MaxSAT algorithms.
 
-The talk will introduce the main ideas behind the construction, explain why the reduction is correct, and discuss what it reveals about the relationship between SAT and MaxSAT solving in practice.
+The second part presents a constructive methodology for reducing SAT to Max2SAT using gadgets. Rather than relying on intricate, problem-specific constructions, the approach systematically builds compact Max2SAT instances that faithfully encode arbitrary SAT formulas. Besides providing a clearer understanding of how such reductions can be derived, this construction has practical significance: experimental results show that solving the resulting Max2SAT instances with modern MaxSAT solvers is competitive with, and in some cases outperforms, state-of-the-art SAT solvers on challenging benchmark families.
 
 ## Schedule
 
