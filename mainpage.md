@@ -115,7 +115,7 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |11:00-11:20| [An Interactive Application to Solve Sudoku Variant Puzzles](papers/ModRef2026-02-Interactive-Application-Sudoku.pdf) <br /> *Helmut Simonis, Luis Quesada* |
 |11:20-11:40| [Scaling Sudoku as a Constraint Problem](papers/ModRef2026-07-Scaling-Sudoku.pdf) <br /> *Mikael Zayenz Lagerkvist* |
 | **11:40-12:20**| **Invited Talk**| 
-|11:40-12:20| From SAT to Max2SAT: A Systematic Reduction with Practical Benefits <br /> *Carlos Ansótegui* (Universitat de Lleida) |
+|11:40-12:20| Reformulation in MaxSAT: Resolution Rules and Gadgets<br /> *Carlos Ansótegui* (Universitat de Lleida) |
 |**12:20-13:50**|**Lunch Break**|
 |**13:50-14:30**|**Session 3: Automated Generation and Reformulation**| 
 |13:50-14:10| [Computing Gadgets](papers/ModRef2026-06-Computing-Gadgets.pdf) <br /> *Josep Alòs, Carlos Ansótegui, Supratik Chakraborty, Eduard Torres* |
