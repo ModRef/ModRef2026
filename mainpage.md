@@ -120,7 +120,7 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**13:50-14:30**|**Session 3: Automated Generation and Reformulation**| 
 |13:50-14:10| [Computing Gadgets](papers/ModRef2026-06-Computing-Gadgets.pdf) <br /> *Josep Alòs, Carlos Ansótegui, Supratik Chakraborty, Eduard Torres* |
 |14:10-14:30| [Towards Automated Generation of Benchmark Instances with Diverse Solver Performance](papers/ModRef2026-12-Towards-Automated-Generation.pdf) <br /> *Tianchen Wu, Ian Miguel, Nguyen Dang* |
-|**14:30-15:20**|**To Be Confirmed**|
+|**14:30-15:20**|**25th Anniversary Event: Retrospective and Quiz**|
 |**15:20-15:50**|**Coffee Break**| 
 |**15:50-17:00**|**Session 4: Applications**| 
 |15:50-16:00| [Novel Pair- and Topic-Swapping](papers/ModRef2026-10-Novel-Pair-Topic.pdf) <br /> *Frej Knutar Lewander, Jennifer Jennifer Gross, María Andreína Francisco Rodríguez* |
