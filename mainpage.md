@@ -108,7 +108,7 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**09:10-10:30** | **Session 1: Constraint Modelling and Propagation**| 
 |09:10-09:30 | [Defining Propagators in MiniZinc](https://archive.modref.org/files/papers/2026/ModRef2026-02-Defining-Propagators-in-MiniZinc.pdf) <br /> *Jip J. Dekker, Peter J. Stuckey, Guido Tack, Huu Quang Tran, Markus Wagner*|
 |09:30-09:50 | [Propagation Algorithms for the Minimum-Distance Constraint over Selected Points](https://archive.modref.org/files/papers/2026/ModRef2026-03-Propagation-Algorithms-for-the-Minimum-Distance-Constraint-o.pdf) <br /> *Mikael Zayenz Lagerkvist*|
-|09:50-10:10 | Machine Learning-Based Generalization Queries for Constraint Acquisition <br /> *Dimos Tsouros, Senne Berden, Tias Guns*|
+|09:50-10:10 | [Machine Learning-Based Generalization Queries for Constraint Acquisition](https://archive.modref.org/files/papers/2026/ModRef2026-04-ML-Based-Generalization-Queries-for-Constraint-Acquisition.pdf) <br /> *Dimos Tsouros, Senne Berden, Tias Guns*|
 |10:10-10:30 | [Paramita: An Extensible Framework for SATisfiability Solving](https://archive.modref.org/files/papers/2026/ModRef2026-05-Paramita-An-Extensible-Framework-for-SATisfiability-Solving.pdf) <br /> *Josep Alòs, Carlos Ansótegui, Juan Luis Esteban, Eduard Torres*|
 |**10:30-11:00** | **Coffee Break** |
 |**11:00-11:40**| **Session 2: Puzzles**|
