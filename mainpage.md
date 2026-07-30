@@ -106,14 +106,14 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**09:00-09:10** | **Opening** <br /> *Chair: Jordi Coll*|
 | 09:00-09:10      | Welcome and Introduction <br />  *Jordi Coll (Universitat de Girona)*|
 |**09:10-10:30** | **Session 1: Constraint Modelling and Propagation**| 
-|09:10-09:30 | [Defining Propagators in MiniZinc](https://archive.modref.org/files/papers/2026/ModRef2026-02-Defining-Propagators-in-MiniZinc.pdf) <br /> *Jip J. Dekker, Peter J. Stuckey, Guido Tack, Huu Quang Tran, Markus Wagner*|
+|09:10-09:30 | [Defining Propagators in MiniZinc](https://archive.modref.org/files/papers/2026/ModRef2026-02-Defining-Propagators-in-MiniZinc.pdf) \[[slides](slides_01.pdf)\]  <br /> *Jip J. Dekker, Peter J. Stuckey, Guido Tack, Huu Quang Tran, Markus Wagner*|
 |09:30-09:50 | [Propagation Algorithms for the Minimum-Distance Constraint over Selected Points](https://archive.modref.org/files/papers/2026/ModRef2026-03-Propagation-Algorithms-for-the-Minimum-Distance-Constraint-o.pdf) <br /> *Mikael Zayenz Lagerkvist*|
-|09:50-10:10 | [Machine Learning-Based Generalization Queries for Constraint Acquisition](https://archive.modref.org/files/papers/2026/ModRef2026-04-ML-Based-Generalization-Queries-for-Constraint-Acquisition.pdf) <br /> *Dimos Tsouros, Senne Berden, Tias Guns*|
+|09:50-10:10 | [Machine Learning-Based Generalization Queries for Constraint Acquisition](ModRef2026-04-ML-Based-Generalization-Queries-for-Constraint-Acquisition.pdf) <br /> *Dimos Tsouros, Senne Berden, Tias Guns*|
 |10:10-10:30 | [Paramita: An Extensible Framework for SATisfiability Solving](https://archive.modref.org/files/papers/2026/ModRef2026-05-Paramita-An-Extensible-Framework-for-SATisfiability-Solving.pdf) <br /> *Josep Alòs, Carlos Ansótegui, Juan Luis Esteban, Eduard Torres*|
 |**10:30-11:00** | **Coffee Break** |
 |**11:00-11:40**| **Session 2: Puzzles**|
-|11:00-11:20| [An Interactive Application to Solve Sudoku Variant Puzzles](https://archive.modref.org/files/papers/2026/ModRef2026-06-An-Interactive-Application-to-Solve-Sudoku-Variant-Puzzles.pdf) <br /> *Helmut Simonis, Luis Quesada* |
-|11:20-11:40| [Scaling Sudoku as a Constraint Problem](https://archive.modref.org/files/papers/2026/ModRef2026-06-An-Interactive-Application-to-Solve-Sudoku-Variant-Puzzles.pdf) <br /> *Mikael Zayenz Lagerkvist* |
+|11:00-11:20| [An Interactive Application to Solve Sudoku Variant Puzzles](https://archive.modref.org/files/papers/2026/ModRef2026-06-An-Interactive-Application-to-Solve-Sudoku-Variant-Puzzles.pdf) \[[slides](slides_06.pdf)\]  <br /> *Helmut Simonis, Luis Quesada* |
+|11:20-11:40| [Scaling Sudoku as a Constraint Problem](https://archive.modref.org/files/papers/2026/ModRef2026-07-Scaling-Sudoku-as-a-Constraint-Problem.pdf) <br /> *Mikael Zayenz Lagerkvist* |
 | **11:40-12:20**| **Invited Talk**| 
 |11:40-12:20| Reformulation in MaxSAT: Resolution Rules and Gadgets<br /> *Carlos Ansótegui* (Universitat de Lleida) |
 |**12:20-13:50**|**Lunch Break**|
@@ -125,8 +125,8 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**15:50-17:00**|**Session 4: Applications**| 
 |15:50-16:00| [Novel Pair- and Topic-Swapping](https://archive.modref.org/files/papers/2026/ModRef2026-10-Novel-Pair-and-Topic-Swapping.pdf) <br /> *Frej Knutar Lewander, Jennifer Jennifer Gross, María Andreína Francisco Rodríguez* |
 |16:00-16:20| [No More Awkward Silences with Table Talk Tuning](https://archive.modref.org/files/papers/2026/ModRef2026-11-No-More-Awkward-Silences-with-Table-Talk-Tuning.pdf) <br /> *Martin Butler, Mikael Zayenz Lagerkvist*|
-|16:20-16:40| [A Simple Yet Efficient Lifted Formulation for Hard-to-Ground Planning Problems](https://archive.modref.org/files/papers/2026/ModRef2026-12-A-Simple-Yet-Efficient-Lifted-Formulation-for-Hard-to-Ground.pdf) <br /> *Miquel Bofill, Cristina Borralleras, Josu Oca*|
-|16:40-17:00| [Solution Checking with CPMpy](https://archive.modref.org/files/papers/2026/ModRef2026-12-A-Simple-Yet-Efficient-Lifted-Formulation-for-Hard-to-Ground.pdf) <br /> *Hendrik Bierlee, Tias Guns*|
+|16:20-16:40| [A Simple Yet Efficient Lifted Formulation for Hard-to-Ground Planning Problems](https://archive.modref.org/files/papers/2026/ModRef2026-12-A-Simple-Yet-Efficient-Lifted-Formulation-for-Hard-to-Ground.pdf) \[[slides](slides_12.pdf)\] <br /> *Miquel Bofill, Cristina Borralleras, Josu Oca*|
+|16:40-17:00| [Solution Checking with CPMpy](https://archive.modref.org/files/papers/2026/ModRef2026-13-Solution-Checking-with-CPMpy.pdf) \[[slides](slides_13.pdf)\]  <br /> *Hendrik Bierlee, Tias Guns*|
 
 
 ## Program Committee
