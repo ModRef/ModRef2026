@@ -123,7 +123,7 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**14:30-15:20**|**25th Anniversary Event: Retrospective and Quiz**|
 |**15:20-15:50**|**Coffee Break**| 
 |**15:50-17:00**|**Session 4: Applications**| 
-|15:50-16:00| [Novel Pair- and Topic-Swapping](https://archive.modref.org/files/papers/2026/ModRef2026-10-Novel-Pair-and-Topic-Swapping.pdf) <br /> *Frej Knutar Lewander, Jennifer Jennifer Gross, María Andreína Francisco Rodríguez* |
+|15:50-16:00| [Novel Pair- and Topic-Swapping](https://archive.modref.org/files/papers/2026/ModRef2026-10-Novel-Pair-and-Topic-Swapping.pdf) \[[slides](slides_10.pdf)\] <br /> *Frej Knutar Lewander, Jennifer Jennifer Gross, María Andreína Francisco Rodríguez* |
 |16:00-16:20| [No More Awkward Silences with Table Talk Tuning](https://archive.modref.org/files/papers/2026/ModRef2026-11-No-More-Awkward-Silences-with-Table-Talk-Tuning.pdf) <br /> *Martin Butler, Mikael Zayenz Lagerkvist*|
 |16:20-16:40| [A Simple Yet Efficient Lifted Formulation for Hard-to-Ground Planning Problems](https://archive.modref.org/files/papers/2026/ModRef2026-12-A-Simple-Yet-Efficient-Lifted-Formulation-for-Hard-to-Ground.pdf) \[[slides](slides_12.pdf)\] <br /> *Miquel Bofill, Cristina Borralleras, Josu Oca*|
 |16:40-17:00| [Solution Checking with CPMpy](https://archive.modref.org/files/papers/2026/ModRef2026-13-Solution-Checking-with-CPMpy.pdf) \[[slides](slides_13.pdf)\]  <br /> *Hendrik Bierlee, Tias Guns*|
