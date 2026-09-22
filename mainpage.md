@@ -119,7 +119,7 @@ The second part presents a constructive methodology for reducing SAT to Max2SAT 
 |**12:20-13:50**|**Lunch Break**|
 |**13:50-14:30**|**Session 3: Automated Generation and Reformulation**| 
 |13:50-14:10| [Computing Gadgets](https://archive.modref.org/files/papers/2026/ModRef2026-08-Computing-Gadgets.pdf) <br /> *Josep Alòs, Carlos Ansótegui, Supratik Chakraborty, Eduard Torres* |
-|14:10-14:30| [Towards Automated Generation of Benchmark Instances with Diverse Solver Performance](https://archive.modref.org/files/papers/2026/ModRef2026-09-Towards-Automated-Generation-of-Benchmark-Instances-with-Div.pdf) <br /> *Tianchen Wu, Ian Miguel, Nguyen Dang* |
+|14:10-14:30| [Towards Automated Generation of Benchmark Instances with Diverse Solver Performance](https://archive.modref.org/files/papers/2026/ModRef2026-09-Towards-Automated-Generation-of-Benchmark-Instances-with-Div.pdf) [[slides](ModRef2026-09-Towards-Automated-Generation-of-Benchmark-Instances-with-Div.pdf)\] <br /> *Tianchen Wu, Ian Miguel, Nguyen Dang* |
 |**14:30-15:20**|**25th Anniversary Event: Retrospective and Quiz** |
 |14:30-15:20|25th Anniversary Event: Retrospective and Quiz \[[slides](quiz.pdf)\] <br /> *Jordi Coll, Felix Ulrich-Oltean*|
 |**15:20-15:50**|**Coffee Break**|
